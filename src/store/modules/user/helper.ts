@@ -15,7 +15,7 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://lijiangang-1303859149.cos.ap-shanghai.myqcloud.com/mingzi_logo.png',
+      avatar: 'https://lijiangang-1303859149.cos.ap-shanghai.myqcloud.com/gpt_header.jpeg',
       name: '建钢',
       description: '<a href="https://lijiangang-1303859149.cos.ap-shanghai.myqcloud.com/gpt%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.html" class="text-blue-500" target="_blank" >使用指南</a>',
     },
